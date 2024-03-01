@@ -51,19 +51,10 @@
 
 </div>  
 
-<h2 align="left">📫 SNS & Contacts</h3>
+<h2 align="left">📫 Contacts</h3>
 <p align="left">
-<!--SNS-->
-  <a href="https://www.notion.so/Jooyoung-Lim-eedcc0393f1740d88d7722f0eef3f702">
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/Jooyoung-Lim-eedcc0393f1740d88d7722f0eef3f702"/></a>
 <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%98%81-%EC%9E%84-36482323b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%A3%BC%EC%98%81-%EC%9E%84-36482323b"/></a>
-<a href="https://daily-life-in-20s.tistory.com">
-  <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://daily-life-in-20s.tistory.com"/></a>
-   <br/>
-<!--Contacts-->
-<a href="https://wn_young@naver.com">
-    <img src="http://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://wn_young@naver.com"/></a>
 <a href="https://young19@sookmyung.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://young19@sookmyung.ac.kr"/>
    <br/>
